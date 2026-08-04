@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "settings_title",
+      "value": "Settings"
+    },
+    {
+      "name": "settings_result_default",
+      "value": "Select a setting"
+    },
+    {
+      "name": "dialog_confirm_title",
+      "value": "Confirm change"
+    },
+    {
+      "name": "interstitial_title",
+      "value": "Reset?"
+    },
+    {
+      "name": "interstitial_subtitle",
+      "value": "Tap to confirm"
+    },
+    {
+      "name": "btn_no",
+      "value": "No"
+    },
+    {
+      "name": "btn_yes",
+      "value": "Yes"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "btn_apply",
+      "value": "Apply"
+    },
+    {
+      "name": "setting_wifi",
+      "value": "Wi-Fi"
+    },
+    {
+      "name": "setting_bluetooth",
+      "value": "Bluetooth"
+    },
+    {
+      "name": "setting_brightness",
+      "value": "Brightness"
+    },
+    {
+      "name": "setting_dnd",
+      "value": "Do Not Disturb"
+    },
+    {
+      "name": "setting_factory_reset",
+      "value": "Factory Reset"
+    },
+    {
+      "name": "value_on",
+      "value": "On"
+    },
+    {
+      "name": "value_off",
+      "value": "Off"
+    },
+    {
+      "name": "value_auto",
+      "value": "Auto"
+    },
+    {
+      "name": "result_applied",
+      "value": "%s: applied"
+    },
+    {
+      "name": "result_cancelled",
+      "value": "%s: cancelled"
+    },
+    {
+      "name": "result_confirmed",
+      "value": "%s: confirmed"
+    },
+    {
+      "name": "result_error",
+      "value": "error %d"
+    },
+    {
+      "name": "result_interstitial_error",
+      "value": "interstitial error %d"
+    },
+    {
+      "name": "dialog_confirm_message",
+      "value": "Apply \"%s\"?"
+    }
+  ]
+}
